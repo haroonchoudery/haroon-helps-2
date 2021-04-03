@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://haroonhelps.netlify.app",
+    "apiUrl": "http://localhost:2368",
     "contentApiKey": "c8b8161e3556e1ba06c3789e78"
   },
   "production": {
-    "apiUrl": "http://haroonhelps.netlify.app",
+    "apiUrl": "http://localhost:2368",
     "contentApiKey": "c8b8161e3556e1ba06c3789e78"
   }
 }
